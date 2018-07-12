@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -25,4 +24,3 @@ Things you may want to cover:
 * ...
 =======
 # devise_user
->>>>>>> 6447441dce399512f2786b9c52e89669f34e7169
